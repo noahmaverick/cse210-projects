@@ -34,7 +34,7 @@ class Program
     }
     static int PromptUserNumber()
     {
-        Console.Write("Enter your preferred number bro");
+        Console.Write("Enter your preferred number bro ");
         int number = int.Parse(Console.ReadLine());
 
         return number;
